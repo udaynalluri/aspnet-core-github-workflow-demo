@@ -1,4 +1,4 @@
-name: Build and deploy ASP.Net Core app to an Azure Web App
+name: Build and deploy ASP.Net Core app to an Azure WebApp
 
 env:
   AZURE_WEBAPP_NAME: webapp-demo-001    # set this to the name of your Azure Web App
