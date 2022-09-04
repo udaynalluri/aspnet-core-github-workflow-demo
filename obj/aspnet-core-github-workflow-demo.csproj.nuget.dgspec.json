@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\UN749CY\\OneDrive - EY\\Git-Projects\\aspnet-core-github-workflow-demo\\aspnet-core-github-workflow-demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\UN749CY\\OneDrive - EY\\Git-Projects\\aspnet-core-github-workflow-demo\\aspnet-core-github-workflow-demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\UN749CY\\OneDrive - EY\\Git-Projects\\aspnet-core-github-workflow-demo\\aspnet-core-github-workflow-demo.csproj",
+        "projectName": "aspnet-core-github-workflow-demo",
+        "projectPath": "C:\\Users\\UN749CY\\OneDrive - EY\\Git-Projects\\aspnet-core-github-workflow-demo\\aspnet-core-github-workflow-demo.csproj",
+        "packagesPath": "C:\\Users\\UN749CY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UN749CY\\OneDrive - EY\\Git-Projects\\aspnet-core-github-workflow-demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\UN749CY\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
